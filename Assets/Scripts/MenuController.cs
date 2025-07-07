@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour
 {
@@ -16,4 +17,14 @@ public class MenuController : MonoBehaviour
         optionPanel.SetActive(false);
         mainMenuPanel.SetActive(true);
     }
+
+    public void LoadLevelScene()
+    {
+        SceneManager.LoadScene("LevelScene");
+    }
+
+    public void LoadStartScene()
+    {
+        SceneManager.LoadScene("StartScene");
+    }   
 }

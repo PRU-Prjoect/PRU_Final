@@ -1,17 +1,10 @@
 fileFormatVersion: 2
-guid: 56c4b5043559ed645a4bf2858716d52a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 311704
-  packageName: Simple UI Icons
-  packageVersion: 1.1
-  assetPath: Assets/HardArtcore/UI/SimpleIcons/Sprites/Icons/Line/ic_home_lines.png
-  uploadId: 742599
+guid: 909770c2344cbd04e9847c0e348cf506
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2856300649706382432
-    second: ic_home_lines_0
+      213: -3121481339675506435
+    second: crystal-ball-icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -53,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -79,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -104,34 +97,8 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -146,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ic_home_lines_0
+      name: crystal-ball-icon_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 39
-        width: 470
-        height: 425
+        x: 247
+        y: 173
+        width: 1409
+        height: 1555
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ab988241b16c58d0800000000000000
-      internalID: -2856300649706382432
+      spriteID: df881a782454ea4d0800000000000000
+      internalID: -3121481339675506435
       vertices: []
       indices: 
       edges: []
@@ -171,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -180,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ic_home_lines_0: -2856300649706382432
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
