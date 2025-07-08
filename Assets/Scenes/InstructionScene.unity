@@ -681,8 +681,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -12, y: 90}
-  m_SizeDelta: {x: 735.7595, y: 50}
+  m_AnchoredPosition: {x: 19.6053, y: 10.2343}
+  m_SizeDelta: {x: 798.9702, y: 209.5314}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1089094546
 MonoBehaviour:
@@ -705,7 +705,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\r Move: Press A (left) and D (right)  \r\n Jump: Press W to collect coins 
-    \r\n\r\n Goal: Jump and collect coins throughout the levels  \r\nEach level has
+    \r\n\rGoal: Jump and collect coins throughout the levels  \r\nEach level has
     a boss. Answer the boss's question correctly to pass.  \r\n You have 3 lives.
     Each wrong answer costs 1 life.  \r\n\r\r\n"
   m_isRightToLeft: 0
