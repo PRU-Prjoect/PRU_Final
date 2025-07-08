@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a9b98802c44a064d9e1e1ce2923435e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - characterItemPrefab: {fileID: 7065242799917435787, guid: 500de5b0c7445194995e96a5bd06b92b, type: 3}
+  - contentPanel: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
